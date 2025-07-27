@@ -204,10 +204,10 @@ This tool is for educational and development purposes. It should not be consider
 ## 📞 Support
 
 For issues, questions, or contributions:
-- Open an issue on GitHub
-- Review existing vulnerability patterns
-- Test with your smart contracts
-- Share feedback for improvements
+- Open an issue on GitHub.
+- Review existing vulnerability patterns.
+- Test with your smart contracts.
+- Share feedback for improvements.
 
 ---
 
